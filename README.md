@@ -1,6 +1,6 @@
 # [Codewell's Challenge!](https://vilay1702.github.io/developer-portfolio-challenge/) 🚀
 
-### Web Developer Portfolio
+### Developer Portfolio
 
 [Live Preview: https://vilay1702.github.io/developer-portfolio-challenge/](https://vilay1702.github.io/developer-portfolio-challenge/)
 
