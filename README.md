@@ -8,7 +8,6 @@
 
 - HTML
 - CSS
-- JS
 
 > Made it from scratch, no frameworks or libraries
 
